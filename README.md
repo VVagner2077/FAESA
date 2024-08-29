@@ -1,4 +1,4 @@
-# Repositório dos meus projetos da --------------FAESA🔷-------------
+# Repositório dos meus projetos da FAESA🔷
 
 ![Logo da FAESA](https://f.hubspotusercontent40.net/hubfs/8767745/topo-1100x275.png)
 
