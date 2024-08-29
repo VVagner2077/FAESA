@@ -20,7 +20,3 @@ Aqui você encontrará uma lista de projetos organizados por disciplina ou tema,
 ## Tecnologias Utilizadas 🛠️
 
 - Python 🐍
-
-## Licença 📜
-
-Este repositório está licenciado sob a [Licença MIT](LICENSE).
